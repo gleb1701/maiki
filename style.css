@@ -1,4 +1,3 @@
-*
 #navbar ul { display: none; }
 #navbar li:hover ul { display: block; }
 #navbar, #navbar ul {
@@ -20,7 +19,7 @@
 #navbar { height: 30px; }
 #navbar ul {
   display: none;
-  background-color: #91080C;
+  background-color: red;
   position: absolute;
   top: 100%;
 }
@@ -32,7 +31,6 @@
 }
 #navbar {
   height: 30px;
-  background-color: #000000;
   padding-left: 25px;
   min-width: 470px;
 }
@@ -45,30 +43,26 @@
   display: block;
   padding: 6px;
   width: 100px;
-  color: #fff;
+  color: green;
   text-decoration: none;
   text-align: center;
 }
 #navbar ul li { float: none; }
-#navbar li:hover { background-color: #91080C; }
-#navbar ul li:hover { background-color: #000000; }
+#navbar li:hover { background-color: #FF0000; }
+#navbar ul li:hover { background-color: #FF0000; }
 {
   margin: 0;
 }
 body{
-background: url('');
   background ;
   background-size: cover;
   background-repeat: no-repeat;
-  font-family: 'verdana', cursive
-}
-a{
-  color: #951313;
+  font-family: 'Gotham Pro Regular',
 }
 h1{
 text-align: center;
 margin: 0px;
-color: #AD0004;
+color: black;
 }
 h2{
 text-align: center;
@@ -78,4 +72,3 @@ color;
 p{
 text-align: center;
 margin: 0px;
-color: ;
